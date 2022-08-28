@@ -1,0 +1,10 @@
+﻿  Time_28-08-2022.cpp
+C:\Users\Fishman_1\Documents\GitHub\Time_28-08-2022\Time_28-08-2022.cpp(33,81): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\Fishman_1\Documents\GitHub\Time_28-08-2022\Time_28-08-2022.cpp(33,81): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+C:\Users\Fishman_1\Documents\GitHub\Time_28-08-2022\Time_28-08-2022.cpp(35,85): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\Fishman_1\Documents\GitHub\Time_28-08-2022\Time_28-08-2022.cpp(35,85): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+C:\Users\Fishman_1\Documents\GitHub\Time_28-08-2022\Time_28-08-2022.cpp(37,93): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\Fishman_1\Documents\GitHub\Time_28-08-2022\Time_28-08-2022.cpp(37,93): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+C:\Users\Fishman_1\Documents\GitHub\Time_28-08-2022\Time_28-08-2022.cpp(39,102): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\Fishman_1\Documents\GitHub\Time_28-08-2022\Time_28-08-2022.cpp(39,102): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+  Time_28-08-2022.vcxproj -> C:\Users\Fishman_1\Documents\GitHub\Time_28-08-2022\x64\Debug\Time_28-08-2022.exe
