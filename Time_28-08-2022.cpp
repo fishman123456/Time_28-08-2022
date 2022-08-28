@@ -30,13 +30,13 @@ int main()
 
     seconds = difftime(timer, mktime(&y2k));
 
-    printf("%.f seconds since January 1, 2000 in the current timezone", seconds,"/n");
+    printf("%.f seconds since January 1, 2000 in the current timezone", seconds);
     cout << endl;
-    printf("%.f hours since January 1, 2000 in the current timezone", seconds/3600, "/n");
+    printf("%.f hours since January 1, 2000 in the current timezone", seconds/3600);
     cout << endl;
-    printf("%.f days since January 1, 2000 in the current timezone", (seconds / 3600) / 24, "/n");
+    printf("%.f days since January 1, 2000 in the current timezone", (seconds / 3600) / 24);
     cout << endl;
-    printf("%.f years since January 1, 2000 in the current timezone", (((seconds / 3600) / 24)/365), "/n");
+    printf("%.f years since January 1, 2000 in the current timezone", (((seconds / 3600) / 24)/365));
     cout << endl;
     return 0;
 }
